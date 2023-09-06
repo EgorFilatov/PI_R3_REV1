@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=U_PI_R3_REV1_BLOCK_CAP3 Member=C6_U_PI_R3_REV1_BLOCK_CAP1
+Removed Member From Class: ClassName=U_PI_R3_REV1_BLOCK_CAP3 Member=C7_U_PI_R3_REV1_BLOCK_CAP1
+Added Pin To Net: NetName=SPI_1_NSS Pin=U2-20
+Added Net: Name=SPI_1_NSS
+Added Pin To Net: NetName=SPI_3_CS Pin=U2-50
+Added Net: Name=SPI_3_CS
+Added Pin To Net: NetName=SPI_3_MOSI Pin=U2-53
+Added Net: Name=SPI_3_MOSI
+Added Pin To Net: NetName=SPI_3_SCK Pin=U2-51
+Added Net: Name=SPI_3_SCK
+Added Pin To Net: NetName=WATCHDOG Pin=U2-61
+Added Net: Name=WATCHDOG
+Added Member To Class: ClassName=U_PI_R3_REV1_BLOCK_CAP3 Member=Component C6_U_PI_R3_REV1_BLOCK_CAP3 (C6) Cap_0402
+Added Member To Class: ClassName=U_PI_R3_REV1_BLOCK_CAP3 Member=Component C7_U_PI_R3_REV1_BLOCK_CAP3 (C7) Cap_0402

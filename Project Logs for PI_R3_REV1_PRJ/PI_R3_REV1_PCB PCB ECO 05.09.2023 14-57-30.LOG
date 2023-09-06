@@ -1,0 +1,133 @@
+Added Component: Designator=C1(CAP: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=LSD1(WH2004A)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.winstar.com.tw/uploads/files/e97d4fb1a675762f600be546831f7c7f.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.winstar.com.tw/ru/products/character-lcd-display-module/wh2004a.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Winstar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "LCD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R39(RES: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R40(RES: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOIC-16)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://eu.mouser.com/datasheet/2/302/PCF8574_PCF8574A-1127673.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/NXP-Semiconductors/PCF8574T-3518?qs=LOCUfHb8d9srwcgHHpXqQw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "SOIC-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "I/O Expanders"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VT10(SOT-23-3)
+Add component (AddParameter): Name = "Analogue"; Value = "NX7002AK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://eu.mouser.com/datasheet/2/308/NDS7002A_D-1522662.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/onsemi-Fairchild/2N7002?qs=0dwsXDNhqlz66WJJhrTFjQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+5V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+5V Pin=C2-2
+Added Pin To Net: NetName=GND Pin=LSD1-1
+Added Pin To Net: NetName=GND Pin=LSD1-1
+Added Pin To Net: NetName=+5V Pin=LSD1-2
+Added Pin To Net: NetName=+5V Pin=LSD1-2
+Added Pin To Net: NetName=GND Pin=LSD1-3
+Added Pin To Net: NetName=GND Pin=LSD1-3
+Added Pin To Net: NetName=+5V Pin=LSD1-15
+Added Pin To Net: NetName=+5V Pin=LSD1-15
+Added Pin To Net: NetName=GND Pin=R40-1
+Added Pin To Net: NetName=+5V Pin=U1-1
+Added Pin To Net: NetName=+5V Pin=U1-2
+Added Pin To Net: NetName=+5V Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=+5V Pin=U1-16
+Added Pin To Net: NetName=GND Pin=VT10-3
+Added Pin To Net: NetName=DB4 Pin=LSD1-11
+Added Pin To Net: NetName=DB4 Pin=LSD1-11
+Added Pin To Net: NetName=DB4 Pin=U1-9
+Added Net: Name=DB4
+Added Pin To Net: NetName=DB5 Pin=LSD1-12
+Added Pin To Net: NetName=DB5 Pin=LSD1-12
+Added Pin To Net: NetName=DB5 Pin=U1-10
+Added Net: Name=DB5
+Added Pin To Net: NetName=DB6 Pin=LSD1-13
+Added Pin To Net: NetName=DB6 Pin=LSD1-13
+Added Pin To Net: NetName=DB6 Pin=U1-11
+Added Net: Name=DB6
+Added Pin To Net: NetName=DB7 Pin=LSD1-14
+Added Pin To Net: NetName=DB7 Pin=LSD1-14
+Added Pin To Net: NetName=DB7 Pin=U1-12
+Added Net: Name=DB7
+Added Pin To Net: NetName=E Pin=LSD1-6
+Added Pin To Net: NetName=E Pin=LSD1-6
+Added Pin To Net: NetName=E Pin=U1-6
+Added Net: Name=E
+Added Pin To Net: NetName=LED Pin=R39-1
+Added Pin To Net: NetName=LED Pin=U1-7
+Added Net: Name=LED
+Added Pin To Net: NetName=NetLSD1_16 Pin=LSD1-16
+Added Pin To Net: NetName=NetLSD1_16 Pin=LSD1-16
+Added Pin To Net: NetName=NetLSD1_16 Pin=VT10-2
+Added Net: Name=NetLSD1_16
+Added Pin To Net: NetName=NetR39_2 Pin=R39-2
+Added Pin To Net: NetName=NetR39_2 Pin=R40-2
+Added Pin To Net: NetName=NetR39_2 Pin=VT10-1
+Added Net: Name=NetR39_2
+Added Pin To Net: NetName=NetU1_14 Pin=U1-14
+Added Pin To Net: NetName=NetU1_14 Pin=U2-41
+Added Net: Name=NetU1_14
+Added Pin To Net: NetName=NetU1_15 Pin=U1-15
+Added Pin To Net: NetName=NetU1_15 Pin=U2-40
+Added Net: Name=NetU1_15
+Added Pin To Net: NetName=R/W Pin=LSD1-5
+Added Pin To Net: NetName=R/W Pin=LSD1-5
+Added Pin To Net: NetName=R/W Pin=U1-5
+Added Net: Name=R/W
+Added Pin To Net: NetName=RS Pin=LSD1-4
+Added Pin To Net: NetName=RS Pin=LSD1-4
+Added Pin To Net: NetName=RS Pin=U1-4
+Added Net: Name=RS
+Added Class: Name=U_PI_R3_REV1_LCD

@@ -1,0 +1,175 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=+5V Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=+5V Pin=C2-2
+Removed Pin From Net: NetName=+5V Pin=LED1-2
+Removed Pin From Net: NetName=+5V Pin=LED2-2
+Removed Pin From Net: NetName=+5V Pin=LED3-2
+Removed Pin From Net: NetName=+5V Pin=LED4-2
+Removed Pin From Net: NetName=+5V Pin=LED5-2
+Removed Pin From Net: NetName=+5V Pin=LED6-2
+Removed Pin From Net: NetName=+5V Pin=LED7-2
+Removed Pin From Net: NetName=+5V Pin=LED8-2
+Removed Pin From Net: NetName=+5V Pin=LED9-2
+Removed Pin From Net: NetName=GND Pin=LSD1-1
+Removed Pin From Net: NetName=GND Pin=LSD1-1
+Removed Pin From Net: NetName=+5V Pin=LSD1-2
+Removed Pin From Net: NetName=+5V Pin=LSD1-2
+Removed Pin From Net: NetName=GND Pin=LSD1-3
+Removed Pin From Net: NetName=GND Pin=LSD1-3
+Removed Pin From Net: NetName=+5V Pin=LSD1-15
+Removed Pin From Net: NetName=+5V Pin=LSD1-15
+Removed Pin From Net: NetName=+5V Pin=R22-1
+Removed Pin From Net: NetName=+5V Pin=R23-1
+Removed Pin From Net: NetName=+5V Pin=R24-1
+Removed Pin From Net: NetName=+5V Pin=R25-1
+Removed Pin From Net: NetName=+5V Pin=R26-1
+Removed Pin From Net: NetName=+5V Pin=R27-1
+Removed Pin From Net: NetName=+5V Pin=R28-1
+Removed Pin From Net: NetName=+5V Pin=R29-1
+Removed Pin From Net: NetName=+5V Pin=R30-1
+Removed Pin From Net: NetName=GND Pin=R31-1
+Removed Pin From Net: NetName=GND Pin=R32-1
+Removed Pin From Net: NetName=GND Pin=R33-1
+Removed Pin From Net: NetName=GND Pin=R34-1
+Removed Pin From Net: NetName=GND Pin=R35-1
+Removed Pin From Net: NetName=GND Pin=R36-1
+Removed Pin From Net: NetName=GND Pin=R37-1
+Removed Pin From Net: NetName=GND Pin=R38-1
+Removed Pin From Net: NetName=GND Pin=R40-1
+Removed Pin From Net: NetName=+5V Pin=U1-1
+Removed Pin From Net: NetName=+5V Pin=U1-2
+Removed Pin From Net: NetName=+5V Pin=U1-3
+Removed Pin From Net: NetName=GND Pin=U1-8
+Removed Pin From Net: NetName=+5V Pin=U1-16
+Removed Pin From Net: NetName=NetU2_43 Pin=U5-1
+Removed Pin From Net: NetName=NetU2_45 Pin=U5-10
+Removed Pin From Net: NetName=NetU2_44 Pin=U5-11
+Removed Pin From Net: NetName=GND Pin=U5-12
+Removed Pin From Net: NetName=+3V3 Pin=U5-13
+Removed Pin From Net: NetName=NetU2_42 Pin=U5-14
+Removed Pin From Net: NetName=GND Pin=U5-15
+Removed Pin From Net: NetName=+3V3 Pin=U5-24
+Removed Pin From Net: NetName=GND Pin=VT1-2
+Removed Pin From Net: NetName=GND Pin=VT2-2
+Removed Pin From Net: NetName=GND Pin=VT3-2
+Removed Pin From Net: NetName=GND Pin=VT4-2
+Removed Pin From Net: NetName=GND Pin=VT5-2
+Removed Pin From Net: NetName=GND Pin=VT6-2
+Removed Pin From Net: NetName=GND Pin=VT7-2
+Removed Pin From Net: NetName=GND Pin=VT8-2
+Removed Pin From Net: NetName=GND Pin=VT9-2
+Removed Pin From Net: NetName=GND Pin=VT10-3
+Removed Pin From Net: NetName=+5V Pin=XP4-9
+Added Component: Designator=C6_U_PI_R3_REV1_BLOCK_CAP1(CAP: 0402)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "??V"; VariantName = "[No Variations]"
+Added Component: Designator=C6_U_PI_R3_REV1_BLOCK_CAP2(CAP: 0402)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "??V"; VariantName = "[No Variations]"
+Added Component: Designator=C6_U_PI_R3_REV1_BLOCK_CAP3(CAP: 0402)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "??V"; VariantName = "[No Variations]"
+Added Component: Designator=C7_U_PI_R3_REV1_BLOCK_CAP1(CAP: 0402)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "??V"; VariantName = "[No Variations]"
+Added Component: Designator=C7_U_PI_R3_REV1_BLOCK_CAP2(CAP: 0402)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "??V"; VariantName = "[No Variations]"
+Added Component: Designator=C7_U_PI_R3_REV1_BLOCK_CAP3(CAP: 0402)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "??V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C6_U_PI_R3_REV1_BLOCK_CAP1-1
+Added Pin To Net: NetName=+3V3 Pin=C6_U_PI_R3_REV1_BLOCK_CAP1-2
+Added Pin To Net: NetName=GND Pin=C6_U_PI_R3_REV1_BLOCK_CAP2-1
+Added Pin To Net: NetName=+3V3 Pin=C6_U_PI_R3_REV1_BLOCK_CAP2-2
+Added Pin To Net: NetName=GND Pin=C6_U_PI_R3_REV1_BLOCK_CAP3-1
+Added Pin To Net: NetName=+3V3 Pin=C6_U_PI_R3_REV1_BLOCK_CAP3-2
+Added Pin To Net: NetName=GND Pin=C7_U_PI_R3_REV1_BLOCK_CAP1-1
+Added Pin To Net: NetName=+3V3 Pin=C7_U_PI_R3_REV1_BLOCK_CAP1-2
+Added Pin To Net: NetName=GND Pin=C7_U_PI_R3_REV1_BLOCK_CAP2-1
+Added Pin To Net: NetName=+3V3 Pin=C7_U_PI_R3_REV1_BLOCK_CAP2-2
+Added Pin To Net: NetName=GND Pin=C7_U_PI_R3_REV1_BLOCK_CAP3-1
+Added Pin To Net: NetName=+3V3 Pin=C7_U_PI_R3_REV1_BLOCK_CAP3-2
+Added Pin To Net: NetName=NetU2_29 Pin=U2-29
+Added Net: Name=NetU2_29
+Added Pin To Net: NetName=NetU2_30 Pin=U2-30
+Added Net: Name=NetU2_30
+Added Pin To Net: NetName=NetU2_33 Pin=U2-33
+Added Net: Name=NetU2_33
+Added Pin To Net: NetName=NetU2_34 Pin=U2-34
+Added Net: Name=NetU2_34
+Added Pin To Net: NetName=NetU2_35 Pin=U2-35
+Added Net: Name=NetU2_35
+Added Pin To Net: NetName=NetU2_36 Pin=U2-36
+Added Net: Name=NetU2_36
+Added Pin To Net: NetName=NetU2_37 Pin=U2-37
+Added Net: Name=NetU2_37
+Added Pin To Net: NetName=NetU2_38 Pin=U2-38
+Added Net: Name=NetU2_38
+Added Pin To Net: NetName=NetU2_39 Pin=U2-39
+Added Net: Name=NetU2_39
+Added Pin To Net: NetName=NetU2_40 Pin=U2-40
+Added Net: Name=NetU2_40
+Added Pin To Net: NetName=NetU2_41 Pin=U2-41
+Added Net: Name=NetU2_41
+Change Class Name : Old Net Name=PI_R3_REV1_MCU New Net Name=U_PI_R3_REV1_MCU
+Added Class: Name=U_PI_R3_REV1_BLOCK_CAP1
+Added Class: Name=U_PI_R3_REV1_BLOCK_CAP2
+Added Class: Name=U_PI_R3_REV1_BLOCK_CAP3
+Added Class: Name=PI_R3_REV1_BLOCK_CAP
+Added Member To Class: ClassName=U_PI_R3_REV1_MCU Member=Component R3
+Added Member To Class: ClassName=U_PI_R3_REV1_MCU Member=Component U3 LD1117S33CTR4
+Change Room Name: Old Name=PI_R3_REV1_BUTTONS New Name=U_PI_R3_REV1_BLOCK_CAP3
+Change Room Scope: Old Scope=InComponentClass('PI_R3_REV1_BUTTONS') New Scope=InComponentClass('U_PI_R3_REV1_BLOCK_CAP3')
+Added Room: Name=U_PI_R3_REV1_BLOCK_CAP1
+Added Room: Name=U_PI_R3_REV1_BLOCK_CAP2
+Added Room: Name=U_PI_R3_REV1_MCU

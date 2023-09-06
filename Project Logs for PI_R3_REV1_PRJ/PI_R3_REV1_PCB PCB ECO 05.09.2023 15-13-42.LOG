@@ -1,0 +1,135 @@
+Removed Pin From Net: NetName=+5V Pin=R22-1
+Removed Pin From Net: NetName=NetR21_1 Pin=R22-2
+Removed Pin From Net: NetName=+5V Pin=R23-1
+Removed Pin From Net: NetName=NetR19_1 Pin=R23-2
+Removed Pin From Net: NetName=+5V Pin=R24-1
+Removed Pin From Net: NetName=NetR17_1 Pin=R24-2
+Removed Pin From Net: NetName=+5V Pin=R25-1
+Removed Pin From Net: NetName=NetR15_1 Pin=R25-2
+Removed Pin From Net: NetName=+5V Pin=R26-1
+Removed Pin From Net: NetName=NetR13_1 Pin=R26-2
+Removed Pin From Net: NetName=+5V Pin=R27-1
+Removed Pin From Net: NetName=NetR11_1 Pin=R27-2
+Removed Pin From Net: NetName=+5V Pin=R28-1
+Removed Pin From Net: NetName=NetR9_1 Pin=R28-2
+Removed Pin From Net: NetName=+5V Pin=R29-1
+Removed Pin From Net: NetName=NetR7_1 Pin=R29-2
+Removed Pin From Net: NetName=+5V Pin=R30-1
+Removed Pin From Net: NetName=NetR5_1 Pin=R30-2
+Change Component Footprint: Designator=R22 Old Footprint=RES: 0603 New Footprint=RES: 0402
+Change Component Footprint: Designator=R23 Old Footprint=RES: 0603 New Footprint=RES: 0402
+Change Component Footprint: Designator=R24 Old Footprint=RES: 0603 New Footprint=RES: 0402
+Change Component Footprint: Designator=R25 Old Footprint=RES: 0603 New Footprint=RES: 0402
+Change Component Footprint: Designator=R26 Old Footprint=RES: 0603 New Footprint=RES: 0402
+Change Component Footprint: Designator=R27 Old Footprint=RES: 0603 New Footprint=RES: 0402
+Change Component Footprint: Designator=R28 Old Footprint=RES: 0603 New Footprint=RES: 0402
+Change Component Footprint: Designator=R29 Old Footprint=RES: 0603 New Footprint=RES: 0402
+Change Component Footprint: Designator=R30 Old Footprint=RES: 0603 New Footprint=RES: 0402
+Change Component Comment : Designator=R22 Old Comment=Resistor_0603 New Comment=
+Change Component Comment : Designator=R23 Old Comment=Resistor_0603 New Comment=
+Change Component Comment : Designator=R24 Old Comment=Resistor_0603 New Comment=
+Change Component Comment : Designator=R25 Old Comment=Resistor_0603 New Comment=
+Change Component Comment : Designator=R26 Old Comment=Resistor_0603 New Comment=
+Change Component Comment : Designator=R27 Old Comment=Resistor_0603 New Comment=
+Change Component Comment : Designator=R28 Old Comment=Resistor_0603 New Comment=
+Change Component Comment : Designator=R29 Old Comment=Resistor_0603 New Comment=
+Change Component Comment : Designator=R30 Old Comment=Resistor_0603 New Comment=
+Change component parameters: Designator = "R22" ("R22"); Footprint = "RES: 0603"; UniqueID = "\GTMLQRYY\BVFVEJXQ" ("\GTMLQRYY\BVFVEJXQ")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23" ("R23"); Footprint = "RES: 0603"; UniqueID = "\GTMLQRYY\EEWCBQEB" ("\GTMLQRYY\EEWCBQEB")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R24"); Footprint = "RES: 0603"; UniqueID = "\GTMLQRYY\FLQNVDXK" ("\GTMLQRYY\FLQNVDXK")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25" ("R25"); Footprint = "RES: 0603"; UniqueID = "\GTMLQRYY\KUUALLOJ" ("\GTMLQRYY\KUUALLOJ")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R26"); Footprint = "RES: 0603"; UniqueID = "\GTMLQRYY\YHWENJAH" ("\GTMLQRYY\YHWENJAH")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27" ("R27"); Footprint = "RES: 0603"; UniqueID = "\GTMLQRYY\JPWPWDHM" ("\GTMLQRYY\JPWPWDHM")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28" ("R28"); Footprint = "RES: 0603"; UniqueID = "\GTMLQRYY\DYTCPJBT" ("\GTMLQRYY\DYTCPJBT")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29" ("R29"); Footprint = "RES: 0603"; UniqueID = "\GTMLQRYY\WWQJWJQC" ("\GTMLQRYY\WWQJWJQC")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30" ("R30"); Footprint = "RES: 0603"; UniqueID = "\GTMLQRYY\ULTSZPYD" ("\GTMLQRYY\ULTSZPYD")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR21_1 Pin=R22-1
+Added Pin To Net: NetName=+5V Pin=R22-2
+Added Pin To Net: NetName=NetR19_1 Pin=R23-1
+Added Pin To Net: NetName=+5V Pin=R23-2
+Added Pin To Net: NetName=NetR17_1 Pin=R24-1
+Added Pin To Net: NetName=+5V Pin=R24-2
+Added Pin To Net: NetName=NetR15_1 Pin=R25-1
+Added Pin To Net: NetName=+5V Pin=R25-2
+Added Pin To Net: NetName=NetR13_1 Pin=R26-1
+Added Pin To Net: NetName=+5V Pin=R26-2
+Added Pin To Net: NetName=NetR11_1 Pin=R27-1
+Added Pin To Net: NetName=+5V Pin=R27-2
+Added Pin To Net: NetName=NetR9_1 Pin=R28-1
+Added Pin To Net: NetName=+5V Pin=R28-2
+Added Pin To Net: NetName=NetR7_1 Pin=R29-1
+Added Pin To Net: NetName=+5V Pin=R29-2
+Added Pin To Net: NetName=NetR5_1 Pin=R30-1
+Added Pin To Net: NetName=+5V Pin=R30-2

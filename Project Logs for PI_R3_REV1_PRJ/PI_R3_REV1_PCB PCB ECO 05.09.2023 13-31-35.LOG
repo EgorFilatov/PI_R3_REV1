@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=+3V3 Pin=C13-2
+Removed Pin From Net: NetName=+3V3 Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=U4-15
+Removed Pin From Net: NetName=+3V3 Pin=U4-16
+Removed Member From Class: ClassName=U_PI_R3_REV1_MCU Member=C11
+Removed Member From Class: ClassName=U_PI_R3_REV1_MCU Member=C12
+Removed Member From Class: ClassName=U_PI_R3_REV1_MCU Member=C13
+Removed Member From Class: ClassName=U_PI_R3_REV1_MCU Member=C14
+Removed Member From Class: ClassName=U_PI_R3_REV1_MCU Member=C15
+Removed Member From Class: ClassName=U_PI_R3_REV1_MCU Member=C16
+Removed Member From Class: ClassName=U_PI_R3_REV1_MCU Member=U4
+Removed Member From Class: ClassName=U_PI_R3_REV1_MCU Member=XP2

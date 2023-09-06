@@ -1,0 +1,32 @@
+Change Component Designator: OldDesignator=C6_U_PI_R3_REV1_BLOCK_CAP1 NewDesignator=C6_U_PI_R3_REV1_BLOCK_CAP3
+Change Component Designator: OldDesignator=C6_U_PI_R3_REV1_BLOCK_CAP3 NewDesignator=C6_U_PI_R3_REV1_BLOCK_CAP1
+Change Component Designator: OldDesignator=C7_U_PI_R3_REV1_BLOCK_CAP1 NewDesignator=C7_U_PI_R3_REV1_BLOCK_CAP3
+Change Component Designator: OldDesignator=C7_U_PI_R3_REV1_BLOCK_CAP3 NewDesignator=C7_U_PI_R3_REV1_BLOCK_CAP1
+Added Component: Designator=C6_U_PI_R3_REV1_BLOCK_CAP4(CAP: 0402)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "??V"; VariantName = "[No Variations]"
+Added Component: Designator=C7_U_PI_R3_REV1_BLOCK_CAP4(CAP: 0402)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "??V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C6_U_PI_R3_REV1_BLOCK_CAP4-1
+Added Pin To Net: NetName=+3V3 Pin=C6_U_PI_R3_REV1_BLOCK_CAP4-2
+Added Pin To Net: NetName=GND Pin=C7_U_PI_R3_REV1_BLOCK_CAP4-1
+Added Pin To Net: NetName=+3V3 Pin=C7_U_PI_R3_REV1_BLOCK_CAP4-2
+Added Class: Name=U_PI_R3_REV1_BLOCK_CAP4
+Added Member To Class: ClassName=PI_R3_REV1_BLOCK_CAP Member=U_PI_R3_REV1_BLOCK_CAP (PI_R3_REV1_BLOCK_CAP.SchDoc)

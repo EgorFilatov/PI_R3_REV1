@@ -1,0 +1,92 @@
+Removed Pin From Net: NetName=GND Pin=R38-1
+Removed Member From Class: ClassName=U_PI_R3_REV1_BLOCK_CAP4 Member=C6_U_PI_R3_REV1_BLOCK_CAP1
+Removed Member From Class: ClassName=U_PI_R3_REV1_BLOCK_CAP1 Member=C6_U_PI_R3_REV1_BLOCK_CAP3
+Removed Member From Class: ClassName=U_PI_R3_REV1_BLOCK_CAP1 Member=C7_U_PI_R3_REV1_BLOCK_CAP3
+Removed Member From Class: ClassName=U_PI_R3_REV1_BLOCK_CAP4 Member=C7_U_PI_R3_REV1_BLOCK_CAP3
+Removed Member From Class: ClassName=U_PI_R3_REV1_BUTTONS Member=R38
+Change Component Footprint: Designator=R31 Old Footprint=RES: 0603 New Footprint=RES: 0402
+Change Component Footprint: Designator=R32 Old Footprint=RES: 0603 New Footprint=RES: 0402
+Change Component Footprint: Designator=R33 Old Footprint=RES: 0603 New Footprint=RES: 0402
+Change Component Footprint: Designator=R34 Old Footprint=RES: 0603 New Footprint=RES: 0402
+Change Component Footprint: Designator=R35 Old Footprint=RES: 0603 New Footprint=RES: 0402
+Change Component Footprint: Designator=R36 Old Footprint=RES: 0603 New Footprint=RES: 0402
+Change Component Footprint: Designator=R37 Old Footprint=RES: 0603 New Footprint=RES: 0402
+Change Component Comment : Designator=R31 Old Comment=Resistor_0603 New Comment=
+Change Component Comment : Designator=R32 Old Comment=Resistor_0603 New Comment=
+Change Component Comment : Designator=R33 Old Comment=Resistor_0603 New Comment=
+Change Component Comment : Designator=R34 Old Comment=Resistor_0603 New Comment=
+Change Component Comment : Designator=R35 Old Comment=Resistor_0603 New Comment=
+Change Component Comment : Designator=R36 Old Comment=Resistor_0603 New Comment=
+Change Component Comment : Designator=R37 Old Comment=Resistor_0603 New Comment=
+Change component parameters: Designator = "R31" ("R31"); Footprint = "RES: 0603"; UniqueID = "\IVPYQGXE\YMVXAUMZ" ("\IVPYQGXE\YMVXAUMZ")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32" ("R32"); Footprint = "RES: 0603"; UniqueID = "\IVPYQGXE\BGUHDDWG" ("\IVPYQGXE\BGUHDDWG")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33" ("R33"); Footprint = "RES: 0603"; UniqueID = "\IVPYQGXE\MSDTHDON" ("\IVPYQGXE\MSDTHDON")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34" ("R34"); Footprint = "RES: 0603"; UniqueID = "\IVPYQGXE\LVWQNTVZ" ("\IVPYQGXE\LVWQNTVZ")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R35" ("R35"); Footprint = "RES: 0603"; UniqueID = "\IVPYQGXE\GSURUYSL" ("\IVPYQGXE\GSURUYSL")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R36" ("R36"); Footprint = "RES: 0603"; UniqueID = "\IVPYQGXE\ZRXNDMUM" ("\IVPYQGXE\ZRXNDMUM")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37" ("R37"); Footprint = "RES: 0603"; UniqueID = "\IVPYQGXE\HWMEFFHC" ("\IVPYQGXE\HWMEFFHC")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU5_23 Pin=U5-23
+Added Pin To Net: NetName=NetU5_23 Pin=XP4-1
+Added Net: Name=NetU5_23
+Change Class Name : Old Net Name=U_PI_R3_REV1_BLOCK_CAP2 New Net Name=U_PI_R3_REV1_BLOCK_CAP3
+Added Class: Name=U_PI_R3_REV1_BLOCK_CAP2
+Added Member To Class: ClassName=U_PI_R3_REV1_BLOCK_CAP1 Member=Component C6_U_PI_R3_REV1_BLOCK_CAP1 (C6) Cap_0402
+Added Member To Class: ClassName=U_PI_R3_REV1_BLOCK_CAP4 Member=Component C6_U_PI_R3_REV1_BLOCK_CAP4 (C6) Cap_0402
+Added Member To Class: ClassName=U_PI_R3_REV1_BLOCK_CAP1 Member=Component C7_U_PI_R3_REV1_BLOCK_CAP1 (C7) Cap_0402
+Added Member To Class: ClassName=U_PI_R3_REV1_BLOCK_CAP4 Member=Component C7_U_PI_R3_REV1_BLOCK_CAP4 (C7) Cap_0402

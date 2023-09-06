@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=SPI_2_CS New Net Name=I2C3_SCL
+Added Pin To Net: NetName=I2C3_SDA Pin=U2-40
+Added Net: Name=I2C3_SDA
+Added Pin To Net: NetName=SPI_2_CS Pin=U2-44
+Added Net: Name=SPI_2_CS

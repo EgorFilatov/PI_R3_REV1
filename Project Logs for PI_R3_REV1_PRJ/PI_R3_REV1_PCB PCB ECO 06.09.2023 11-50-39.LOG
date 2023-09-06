@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=NetR21_1 Pin=LED3-1
+Removed Pin From Net: NetName=NetR21_1 Pin=LED8-1
+Removed Pin From Net: NetName=NetR21_1 Pin=LSD1-16
+Removed Pin From Net: NetName=NetR21_1 Pin=LSD1-16
+Removed Pin From Net: NetName=NetR21_1 Pin=R9-2
+Removed Pin From Net: NetName=NetR21_1 Pin=R19-2
+Removed Pin From Net: NetName=NetR21_1 Pin=R21-1
+Removed Pin From Net: NetName=NetR21_1 Pin=R22-1
+Removed Pin From Net: NetName=NetR21_1 Pin=R39-1
+Removed Pin From Net: NetName=NetR21_1 Pin=R39-2
+Removed Pin From Net: NetName=GND Pin=R40-1
+Removed Pin From Net: NetName=NetR21_1 Pin=R40-2
+Removed Pin From Net: NetName=NetR21_1 Pin=U1-7
+Removed Pin From Net: NetName=NetR21_1 Pin=U2-22
+Removed Pin From Net: NetName=NetR21_1 Pin=U2-23
+Removed Pin From Net: NetName=NetR21_1 Pin=U2-50
+Removed Pin From Net: NetName=NetR21_1 Pin=U2-51
+Removed Pin From Net: NetName=NetR21_1 Pin=U2-53
+Removed Pin From Net: NetName=NetR21_1 Pin=VT10-1
+Removed Pin From Net: NetName=NetR21_1 Pin=VT10-2
+Removed Member From Class: ClassName=U_PI_R3_REV1_LCD Member=R39
+Removed Member From Class: ClassName=U_PI_R3_REV1_LCD Member=R40
+Added Component: Designator=R4(RES: 0402)
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES: 0402)
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED8_1 Pin=LED8-1
+Added Pin To Net: NetName=NetLSD1_16 Pin=LSD1-16
+Added Pin To Net: NetName=NetLSD1_16 Pin=LSD1-16
+Added Pin To Net: NetName=LED Pin=R4-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=NetLED3_1 Pin=R9-2
+Added Pin To Net: NetName=NetLED8_1 Pin=R19-2
+Added Pin To Net: NetName=LED Pin=U1-7
+Added Pin To Net: NetName=SPI_1_MISO Pin=U2-22
+Added Pin To Net: NetName=SPI_1_MOSI Pin=U2-23
+Added Pin To Net: NetName=NetR4_2 Pin=VT10-1
+Added Pin To Net: NetName=NetLSD1_16 Pin=VT10-2
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetR38_2
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_1 Pin=R22-1
+Added Net: Name=NetR21_1
+Added Member To Class: ClassName=U_PI_R3_REV1_LCD Member=Component R4
+Added Member To Class: ClassName=U_PI_R3_REV1_LCD Member=Component R6
+Added Member To Class: ClassName=U_PI_R3_REV1_LCD Member=Component U1 PCF8574
